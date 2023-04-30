@@ -1,0 +1,2 @@
+# DIgit generation using GANs
+ 
